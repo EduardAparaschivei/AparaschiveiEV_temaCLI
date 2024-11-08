@@ -1,0 +1,11 @@
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\Eduard_Test.exe.config
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\Eduard_Test.exe
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\Eduard_Test.pdb
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\OpenTK.dll
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\OpenTK.pdb
+D:\EGC\OpenTK_Introducere\Eduard_Test\bin\Debug\OpenTK.xml
+D:\EGC\OpenTK_Introducere\Eduard_Test\obj\Debug\Eduard_Test.csproj.AssemblyReference.cache
+D:\EGC\OpenTK_Introducere\Eduard_Test\obj\Debug\Eduard_Test.csproj.CoreCompileInputs.cache
+D:\EGC\OpenTK_Introducere\Eduard_Test\obj\Debug\Eduard_T.3B63032D.Up2Date
+D:\EGC\OpenTK_Introducere\Eduard_Test\obj\Debug\Eduard_Test.exe
+D:\EGC\OpenTK_Introducere\Eduard_Test\obj\Debug\Eduard_Test.pdb
